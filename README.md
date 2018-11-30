@@ -1,12 +1,10 @@
 # Intelligent-Furniture
 智能家居（Intelligent Furniture）
 
+做好家居领域的智能对话系统，用科技方便生活！
 
-> 参照百度大脑的项目经验训练我们自己的模型，研发我们的自然语言理解平台。
+## NLUKG（Natural Language Understanding and Knowledge Graph） 目标
+具有“面向任务的理解与交互能力”，具体来说分为两个方面的能力：
+1.	问答能力。解答用户的某个问题（如：今天天气怎么样、我的快递到哪儿了）；
+2.	指令能力。执行用户指令（如：放一首流行音乐，让家庭机器人帮您打开空调、把咖啡端过来）；甚至通过一系列交互引导用户达成某项需求（如：通过注册-选座-下单完成订票）。
 
-[百度理解与交互技术平台(UNIT)](https://ai.baidu.com/unit/home)
-
-
-# [【提升篇】酒店语音助手实例教程](http://ai.baidu.com/forum/topic/show/892294)  
-
-## [【实用范例汇总】](https://ai.baidu.com/docs#/UNIT-v2-sample/top)
