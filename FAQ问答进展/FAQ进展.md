@@ -4,9 +4,9 @@
 任务分配  
 使用百度UNIT平台，制作订票，退票功能  
 **反馈**：  
-1.在平台上模拟了火车票订票功能，训练出来的沙盒模型比较傻。  
-2.UNIT平台界面的某个工具栏更新了。在本次版本中的“对话模板”这一块没有“效果优化这一栏”。  
-3.UNIT平台上是手动对未标注数据进行标注，智能家居这块可以模仿序列标注，将词槽给标注好。  
+- 在平台上模拟了火车票订票功能，训练出来的沙盒模型比较傻。  
+- UNIT平台界面的某个工具栏更新了。在本次版本中的“对话模板”这一块没有“效果优化这一栏”。  
+- UNIT平台上是手动对未标注数据进行标注，智能家居这块可以模仿序列标注，将词槽给标注好。  
 
 ### **Time：2018.11.21-2018.11.28**  
 Option1：家电常见问题数据搜集  
@@ -14,9 +14,9 @@ Option2：查询类FAQ问答系统架构
 Tool：爬虫  
 注：从故障排除、日常保养、常见问题等方面收集数据  
 数据如下：  
-1.[博朗家电](https://www2.braunhousehold.com/zh-cn/customer-support/faq-section?search=+)  
-2.[海尔家电](https://www.haier.com/cn/services_supports/overview/small_applications/daily_use/troubles/index_1.shtml)  
-3.[长虹家电](http://cn.changhong.com/fw/cjwt/czzd/)  
+- [博朗家电](https://www2.braunhousehold.com/zh-cn/customer-support/faq-section?search=+)  
+- [海尔家电](https://www.haier.com/cn/services_supports/overview/small_applications/daily_use/troubles/index_1.shtml)  
+- [长虹家电](http://cn.changhong.com/fw/cjwt/czzd/)  
 平台介绍：  
 [百度开源 FAQ 问答系统—AnyQ](https://www.jiqizhixin.com/articles/2018-08-24-17)  
 **反馈**：  
