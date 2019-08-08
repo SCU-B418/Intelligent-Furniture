@@ -1,5 +1,5 @@
 # Intelligent-Furniture
-智能家居（Intelligent Furniture）
+> 联系方式 wangzichaochaochao@gmail.com
 
 做好家居领域的智能对话系统，用科技方便生活！
 
@@ -8,11 +8,22 @@
 1.	问答能力。解答用户的某个问题（如：今天天气怎么样、我的快递到哪儿了）；
 2.	指令能力。执行用户指令（如：放一首流行音乐，让家庭机器人帮您打开空调、把咖啡端过来）；甚至通过一系列交互引导用户达成某项需求（如：通过注册-选座-下单完成订票）。
 
-## 示例代码
-1. https://github.com/yuanxiaosc/Hands-on-chat-robots
+## 本资源内容
++ [智能家居项目调研](智能家居项目调研.md)
++ [智能家居需求分析V1.0](智能家居需求分析V1.0.md)
++ [智能家居项目资料整理](智能家居项目资料整理.md)
++ [智能家居_自然语言理解系统研发指南v0.1](智能家居_自然语言理解系统研发指南v0.1.docx)
++ [利用垂直网站抽取结构化数据构建知识图谱的方法](利用垂直网站抽取结构化数据构建知识图谱的方法.docx)
++ [智能家居项目_自然语言理解部分工作总结_190807](智能家居项目_自然语言理解部分工作总结_190807.pptx)
 
-## 智能家居项目_自然语言理解部分工作总结20190611
-> 完整信息，查看[智能家居项目_自然语言理解部分工作总结20190611PPT](智能家居项目_自然语言理解部分工作总结20190611.pptx)
+## 相关代码
++ [Customer-Chatbot](https://github.com/WenRichard/Customer-Chatbot)
++ [Entity-Relation-Extraction](https://github.com/yuanxiaosc/Entity-Relation-Extraction)
++ [BERT-for-Sequence-Labeling-and-Text-Classification](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification)
++ [Hands-on-chat-robots](https://github.com/yuanxiaosc/Hands-on-chat-robots)
+
+## 智能家居项目_自然语言理解部分工作总结_190807
+> 完整信息，查看[智能家居项目_自然语言理解部分工作总结_190807](智能家居项目_自然语言理解部分工作总结_190807.pptx)
 
 ![](智能家居项目_自然语言理解部分工作总结20190611/幻灯片2.PNG)
 ![](智能家居项目_自然语言理解部分工作总结20190611/幻灯片3.PNG)
@@ -28,4 +39,3 @@
 ![](智能家居项目_自然语言理解部分工作总结20190611/幻灯片14.PNG)
 ![](智能家居项目_自然语言理解部分工作总结20190611/幻灯片15.PNG)
 
-> 联系方式 wangzichaochaochao@gmail.com
