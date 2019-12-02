@@ -1,0 +1,7 @@
+﻿中文命名实体识别库，可以从文本中抽取出人名、地名、组织名三大类实体。具体用法详见https://github.com/cswangjiawei/ChineseNER
+
+安装：
+pip install ChineseNER 由于网络原因可能很慢
+
+可以下载该项目Intelligent-Furniture目录下的ChineseNER-0.1-py3-none-any.whl文件到本机，然后cd到文件ChineseNER-0.1-py3-none-any.whl所在目录，
+使用pip install ChineseNER-0.1-py3-none-any.whl安装即可
